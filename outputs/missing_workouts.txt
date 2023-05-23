@@ -1,0 +1,68 @@
+For name=Abelev and block_id=14, there are 0 missing workouts.
+              The missing workouts are []
+For name=Abelev and block_id=32, there are 4 missing workouts.
+              The missing workouts are [10, 11, 4, 7]
+For name=Alan and block_id=19, there are 1 missing workouts.
+              The missing workouts are [1]
+For name=Alan and block_id=39, there are 6 missing workouts.
+              The missing workouts are [0, 3, 4, 5, 6, 7]
+For name=Anya and block_id=6, there are 2 missing workouts.
+              The missing workouts are [1, 2]
+For name=Anya and block_id=30, there are 2 missing workouts.
+              The missing workouts are [6, 7]
+For name=Arne and block_id=18, there are 1 missing workouts.
+              The missing workouts are [7]
+For name=Arne and block_id=41, there are 4 missing workouts.
+              The missing workouts are [4, 5, 6, 7]
+For name=Daniel and block_id=13, there are 1 missing workouts.
+              The missing workouts are [1]
+For name=Daniel and block_id=33, there are 6 missing workouts.
+              The missing workouts are [1, 3, 4, 5, 6, 7]
+For name=Dassi and block_id=8, there are 2 missing workouts.
+              The missing workouts are [6, 7]
+For name=Dassi and block_id=40, there are 4 missing workouts.
+              The missing workouts are [4, 5, 6, 7]
+For name=Dimitri and block_id=10, there are 3 missing workouts.
+              The missing workouts are [1, 6, 7]
+For name=Dimitri and block_id=34, there are 3 missing workouts.
+              The missing workouts are [5, 6, 7]
+For name=Dino and block_id=21, there are 2 missing workouts.
+              The missing workouts are [0, 4]
+For name=Dino and block_id=37, there are 6 missing workouts.
+              The missing workouts are [2, 3, 4, 5, 6, 7]
+For name=Igor and block_id=7, there are 2 missing workouts.
+              The missing workouts are [3, 7]
+For name=Igor and block_id=46, there are 6 missing workouts.
+              The missing workouts are [2, 3, 4, 5, 6, 7]
+For name=Mary and block_id=17, there are 6 missing workouts.
+              The missing workouts are [0, 5, 7, 8, 9, 10]
+For name=Mary and block_id=43, there are 11 missing workouts.
+              The missing workouts are [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+For name=Masha and block_id=2, there are 1 missing workouts.
+              The missing workouts are [3]
+For name=Masha and block_id=28, there are 0 missing workouts.
+              The missing workouts are []
+For name=Misha and block_id=1, there are 4 missing workouts.
+              The missing workouts are [10, 11, 14, 15]
+For name=Misha and block_id=36, there are 9 missing workouts.
+              The missing workouts are [3, 6, 7, 10, 11, 12, 13, 14, 15]
+For name=Nat and block_id=5, there are 2 missing workouts.
+              The missing workouts are [8, 11]
+For name=Nat and block_id=31, there are 7 missing workouts.
+              The missing workouts are [2, 5, 7, 8, 9, 10, 11]
+For name=Nick and block_id=16, there are 4 missing workouts.
+              The missing workouts are [0, 1, 8, 7]
+For name=Nick and block_id=42, there are 8 missing workouts.
+              The missing workouts are [2, 5, 6, 7, 8, 9, 10, 11]
+For name=Sachi and block_id=9, there are 1 missing workouts.
+              The missing workouts are [5]
+For name=Sachi and block_id=29, there are 0 missing workouts.
+              The missing workouts are []
+For name=Shawn and block_id=15, there are 1 missing workouts.
+              The missing workouts are [2]
+For name=Shawn and block_id=35, there are 6 missing workouts.
+              The missing workouts are [6, 7, 8, 9, 10, 11]
+For name=Yelena and block_id=4, there are 4 missing workouts.
+              The missing workouts are [2, 10, 13, 7]
+For name=Yelena and block_id=27, there are 3 missing workouts.
+              The missing workouts are [8, 2, 6]

@@ -33,6 +33,10 @@ The following insights were gained from this project:
   - Changes in volume load over time were charted to evaluate program effectiveness.
   - Volume load prior to injury periods was analyzed to identify potential risk factors and aid in program safety.
 
+- **Future Analysis:**
+  - Integrating calendar data into Python for further business analysis
+  - Developing a forecasting model to predict dips in peaks in business traffic according to previous calendar data
+
 ## Concluding Remarks
 
 This project highlighted the importance of data analysis in personal small business management, demonstrating how strategic insights can be gleaned from client and workout data. Using Python for data preparation and analysis, along with Tableau for data visualization, offers a powerful toolset for any business in the fitness industry.

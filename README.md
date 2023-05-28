@@ -1,4 +1,4 @@
-# JP-HPC-Data-Analysis using PostgreSQL, Python, and Tableau
+# JP-HPC-Data-Analysis using PostgreSQL, Python, and Tableau (In Progress)
 
 In this project, I utilized PostgreSQL, Python, and Tableau to perform data analysis and visualization for my fitness business. The analysis was designed to identify crucial business and user metrics to aid decision-making and strategic planning.
 

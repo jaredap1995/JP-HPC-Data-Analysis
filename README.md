@@ -23,6 +23,7 @@ The following insights were gained from this project:
 - **Business Metrics:**
   - Each client's value was assessed based on their attendance, workouts completed, and services provided for free.
    ![Client Analysis Tableau Dashboard](./images/Preliminary_Client_Analaysis.png "Client Analysis Tableau Dashboard")
+   ![Client Analysis Tableau Dashboard](./images/Single_Client_Highlight_Ability.png "Client Analysis Tableau Dashboard")
 
 
   - Potential revenue losses were identified due to complimentary training sessions.

@@ -40,8 +40,11 @@ The following insights were gained from this project:
 - **User Analysis:**
   - The most frequently prescribed exercises were identified to evaluate program diversity and identify areas for variation.
   - The most commonly skipped exercises were pinpointed, providing insights into possible areas for client motivation or program adjustment.
-  - Clients achieving the highest volume loads were recognized, providing potential testimonials or case studies.
+       ![Exercise Diversity Screenshot](./images/Exercise_Prescription_by_Category.png "Exercise_Prescription_by_Category")
+      ![Exercise Diversity Screenshot](./images/Auxillary_Exercises.png "Exercise_Prescription_by_Category")
+
   - An average number of workout skips per block was established, offering a baseline for measuring client commitment and identifying areas for improvement.
+  - Clients achieving the highest volume loads were recognized, providing potential testimonials or case studies.
   - Changes in volume load over time were charted to evaluate program effectiveness.
   - Volume load prior to injury periods was analyzed to identify potential risk factors and aid in program safety.
 

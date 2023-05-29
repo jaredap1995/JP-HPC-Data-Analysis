@@ -24,6 +24,8 @@ The following insights were gained from this project:
   - Each client's value was assessed based on their attendance, workouts completed, and services provided for free.
   - Potential revenue losses were identified due to complimentary training sessions.
   - Seasonal changes were forecasted based on trends in client activity and business performance.
+  - Integrated calendar data into Python via iCalendar for forecasting analysis
+  - SARIMA forecasting model predicts dips and peaks in business traffic based on previous calendar data
 
 - **User Analysis:**
   - The most frequently prescribed exercises were identified to evaluate program diversity and identify areas for variation.
@@ -34,8 +36,10 @@ The following insights were gained from this project:
   - Volume load prior to injury periods was analyzed to identify potential risk factors and aid in program safety.
 
 - **Future Analysis:**
-  - Integrating calendar data into Python for further business analysis
-  - Developing a forecasting model to predict dips in peaks in business traffic according to previous calendar data
+  - Assess greatest changes in Volume Load over time and highest volume load amongst users
+  - Assess prescription differences across genders
+  - Develop a full Dash/Streamlit dashboard with Tableau User Analysis and Business Analysis Integrated and ability to see how forecasting changes as model looks further into the future
+  
 
 ## Concluding Remarks
 

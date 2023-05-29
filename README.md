@@ -22,14 +22,19 @@ The following insights were gained from this project:
 
 - **Business Metrics:**
   - Each client's value was assessed based on their attendance, workouts completed, and services provided for free.
+  - Potential revenue losses were identified due to complimentary training sessions.
    ![Client Analysis Tableau Dashboard](./images/Preliminary_Client_Analaysis.png "Client Analysis Tableau Dashboard")
    ![Client Analysis Tableau Dashboard](./images/Single_Client_Highlight_Ability.png "Client Analysis Tableau Dashboard")
 
 
-  - Potential revenue losses were identified due to complimentary training sessions.
-  - Seasonal changes were forecasted based on trends in client activity and business performance.
   - Integrated calendar data into Python via iCalendar for forecasting analysis
+  - Seasonal changes were forecasted based on trends in client activity and business performance
+  ![Forecasting Analysis](./images/Sessions_Per_Week.png "Sessions Per Week from 06/2020-06/2023")
+
   - SARIMA forecasting model predicts dips and peaks in business traffic based on previous calendar data
+    ![Forecasting Analysis](./images/training_session_forecasting.png "Forecasted Sessions Per Week from 06/2023-06/2024")
+    ![Forecasting Analysis](./images/Percentage_Compliance_Predictions_Based_on_max_value.png "Percent Revenue Expected for 06/2023-06/2024")
+   
 
 - **User Analysis:**
   - The most frequently prescribed exercises were identified to evaluate program diversity and identify areas for variation.

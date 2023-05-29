@@ -22,6 +22,9 @@ The following insights were gained from this project:
 
 - **Business Metrics:**
   - Each client's value was assessed based on their attendance, workouts completed, and services provided for free.
+   ![Client Analysis Tableau Dashboard](./images/Preliminary_Client_Analaysis.png "Client Analysis Tableau Dashboard")
+
+
   - Potential revenue losses were identified due to complimentary training sessions.
   - Seasonal changes were forecasted based on trends in client activity and business performance.
   - Integrated calendar data into Python via iCalendar for forecasting analysis

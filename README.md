@@ -34,7 +34,7 @@ The following insights were gained from this project:
   - SARIMA forecasting model predicts dips and peaks in business traffic based on previous calendar data
   - Both avergae weekly session count and monthly percent of max sessions can be calculated
     ![Forecasting Analysis](./images/training_session_forecasting.png "Forecasted Sessions Per Week from 06/2023-06/2024")
-    ![Forecasting Analysis](./images/Percentage_Compliance_Predictions_Based_on_max_value.png "Percent Revenue Expected for 06/2023-06/2024")
+      ![Forecasting Analysis](./images/Percentage_Compliance_Predictions_Based_on_max_value.png "Percent Revenue Expected for 06/2023-06/2024")
    
 
 - **User Analysis:**
